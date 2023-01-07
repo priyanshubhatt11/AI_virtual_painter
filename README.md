@@ -3,4 +3,4 @@ An application that enables one to virtually paint in the air using their finger
 
 Tech Stacks:💻
 OpenCV (for image processing and drawing)
-Mediapipe (for Hand Tracking)
+Mediapipe (for Hand Tracking) 
